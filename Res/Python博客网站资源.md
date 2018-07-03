@@ -6,6 +6,11 @@
    - github :[https://github.com/TwoWater/Python](https://github.com/TwoWater/Python)
    - 本草根编写的 Python 文章，里面有各种例子代码
 
+* **w3cschool Python 手册**
+   - 链接: [https://www.w3cschool.cn/python/](https://www.w3cschool.cn/python/)
+   - github :[https://github.com/TwoWater/Python](https://github.com/TwoWater/Python)
+   - python的免费技术手册，里面有各种python实例。
+
 * **Python 在线手册**
    - 链接: [http://docs.pythontab.com](http://docs.pythontab.com)
    - Python 在线手册站，收集整理了大量 Python 流行技术文档和教程
